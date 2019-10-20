@@ -185,7 +185,7 @@ def setting():
     colormode(255)
     color((255, 155, 192), "pink")
     setup(840, 500)
-    speed(10)
+    speed(30)
 
 
 def main():

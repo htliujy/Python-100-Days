@@ -38,6 +38,7 @@ def draw_star(x, y, radius):
     turtle.goto(pos2)
     turtle.goto(pos5)
     turtle.end_fill()
+    
 
 
 def main():
